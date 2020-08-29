@@ -1,4 +1,4 @@
-# Module 2 Final Project
+# Module 3 Final Project
 
 ## The Goal
 
